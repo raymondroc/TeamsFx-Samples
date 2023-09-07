@@ -18,6 +18,7 @@
             "time": "5min to run",
             "configuration": "Ready for debug",
             "gifPath": "assets/sampleDemo.gif",
+            "maximumToolkitVersion": "5.0.0",
             "suggested": true
         },
         {
@@ -37,6 +38,7 @@
             "time": "5min to run",
             "configuration": "Ready for debug",
             "gifPath": "assets/sampleDemo.gif",
+            "minimumToolkitVersion": "6.0.0",
             "suggested": true
         },
         {
