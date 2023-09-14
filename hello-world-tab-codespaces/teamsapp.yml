@@ -3,9 +3,6 @@
 # Visit https://aka.ms/teamsfx-actions for details on actions
 version: v1.2
 
-additionalMetadata:
-  sampleTag: TeamsFx-Samples:hello-world-tab-codespaces
-
 environmentFolderPath: ./env
 
 # Triggered when 'teamsfx provision' is executed
@@ -116,3 +113,4 @@ publish:
     writeToEnvironmentFile:
       # Write the information of created resources into environment file for the specified environment variable(s).
       publishedAppId: TEAMS_APP_PUBLISHED_APP_ID
+projectId: 638d1e34-b8cf-48e0-b618-2ee247057f11

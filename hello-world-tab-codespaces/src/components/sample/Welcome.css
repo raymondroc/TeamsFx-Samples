@@ -1,6 +1,11 @@
 .narrow {
-  width: 900px;
+  width: 50%;
   margin: 0 auto;
+  background-color: #f5f5f5;
+}
+
+.welcome.page {
+  background-color: #2e3361;
 }
 
 .page-padding {
@@ -78,3 +83,6 @@ pre::-webkit-scrollbar {
 .error {
   color: red;
 }
+
+
+
